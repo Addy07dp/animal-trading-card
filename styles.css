@@ -1,0 +1,38 @@
+div h3{
+    font: 25px Bangers,Cambria,Georgia,Lobster,serif;
+    margin-top:5px;
+    text-decoration: underline;
+    color:grey;
+}
+.facts{
+    font-style:italic;
+}
+ul {
+    list-style:none;
+    margin:0;
+    padding:0;
+}
+li span{
+    font-weight: bold;
+    text-align: left;
+    font-size:13pt;
+}
+.container{
+    border:2px solid black;
+    text-shadow:1px 1px 1px #aaa;
+    width:300px;
+    padding:10px;
+    font-size:14pt;
+    color:rgb(235, 224, 224);
+    background-color:black;
+}
+.content{
+    border:2px solid grey;
+    padding:10px;
+    padding-top:5px;
+    margin-top: 10px;
+    text-align: left;
+}
+.info{
+    font: 13pt Georgia,"Times New Roman",serif;
+}
